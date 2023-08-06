@@ -7,5 +7,5 @@
 4. Run 'npm run dev' and open the link 
 
 # Live Preview
-https://810-grocerylist.netlify.app/
+https://veeragrocery.netlify.app/
 
